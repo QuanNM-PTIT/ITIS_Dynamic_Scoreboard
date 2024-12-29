@@ -1308,6 +1308,462 @@
           "problem_index": 2,
           "verdict": "P54.0",
           "submitted_seconds": 7334
+      },
+      "219": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P20.0",
+          "submitted_seconds": 7398
+      },
+      "220": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 7403
+      },
+      "221": {
+          "user_id": "ProPTIT_HOANGDD",
+          "problem_index": 5,
+          "verdict": "P40.0",
+          "submitted_seconds": 7405
+      },
+      "222": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 4,
+          "verdict": "P0.0",
+          "submitted_seconds": 7409
+      },
+      "223": {
+          "user_id": "ITIS_HayasakaAi",
+          "problem_index": 2,
+          "verdict": "P121.5",
+          "submitted_seconds": 7472
+      },
+      "224": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 7473
+      },
+      "225": {
+          "user_id": "ITIS_NTSora",
+          "problem_index": 5,
+          "verdict": "P0.0",
+          "submitted_seconds": 7488
+      },
+      "226": {
+          "user_id": "ITIS_DChien",
+          "problem_index": 5,
+          "verdict": "P30.0",
+          "submitted_seconds": 7562
+      },
+      "227": {
+          "user_id": "ProPTIT_MinhNL",
+          "problem_index": 2,
+          "verdict": "P141.0",
+          "submitted_seconds": 7571
+      },
+      "228": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P16.5",
+          "submitted_seconds": 7623
+      },
+      "229": {
+          "user_id": "cutebunnies",
+          "problem_index": 5,
+          "verdict": "P10.0",
+          "submitted_seconds": 7674
+      },
+      "230": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 4,
+          "verdict": "P134.0",
+          "submitted_seconds": 7679
+      },
+      "231": {
+          "user_id": "kiendayne132",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 7686
+      },
+      "232": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 7709
+      },
+      "233": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 2,
+          "verdict": "P0.0",
+          "submitted_seconds": 7776
+      },
+      "234": {
+          "user_id": "ProPTIT_HieuTT",
+          "problem_index": 4,
+          "verdict": "P0.0",
+          "submitted_seconds": 7802
+      },
+      "235": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 2,
+          "verdict": "P0.0",
+          "submitted_seconds": 7823
+      },
+      "236": {
+          "user_id": "ITIS_LeLoc71",
+          "problem_index": 2,
+          "verdict": "P61.5",
+          "submitted_seconds": 7824
+      },
+      "237": {
+          "user_id": "ITIS_HayasakaAi",
+          "problem_index": 2,
+          "verdict": "P121.5",
+          "submitted_seconds": 7857
+      },
+      "238": {
+          "user_id": "cutebunnies",
+          "problem_index": 5,
+          "verdict": "P10.0",
+          "submitted_seconds": 7859
+      },
+      "239": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P37.5",
+          "submitted_seconds": 7886
+      },
+      "240": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 2,
+          "verdict": "P96.0",
+          "submitted_seconds": 7890
+      },
+      "241": {
+          "user_id": "ProPTIT_MinhNL",
+          "problem_index": 3,
+          "verdict": "P6.0",
+          "submitted_seconds": 7897
+      },
+      "242": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P37.5",
+          "submitted_seconds": 7994
+      },
+      "243": {
+          "user_id": "ITIS_HayasakaAi",
+          "problem_index": 2,
+          "verdict": "P150.0",
+          "submitted_seconds": 8001
+      },
+      "244": {
+          "user_id": "ITIS_DChien",
+          "problem_index": 5,
+          "verdict": "P30.0",
+          "submitted_seconds": 8004
+      },
+      "245": {
+          "user_id": "cutebunnies",
+          "problem_index": 5,
+          "verdict": "P10.0",
+          "submitted_seconds": 8101
+      },
+      "246": {
+          "user_id": "ITIS_HayasakaAi",
+          "problem_index": 3,
+          "verdict": "P2.0",
+          "submitted_seconds": 8138
+      },
+      "247": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8148
+      },
+      "248": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 5,
+          "verdict": "P37.5",
+          "submitted_seconds": 8153
+      },
+      "249": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P0.0",
+          "submitted_seconds": 8163
+      },
+      "250": {
+          "user_id": "ITIS_HayasakaAi",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8195
+      },
+      "251": {
+          "user_id": "ProPTIT_HOANGDD",
+          "problem_index": 5,
+          "verdict": "P2.5",
+          "submitted_seconds": 8205
+      },
+      "252": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8220
+      },
+      "253": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P57.0",
+          "submitted_seconds": 8226
+      },
+      "254": {
+          "user_id": "cutebunnies",
+          "problem_index": 5,
+          "verdict": "P7.5",
+          "submitted_seconds": 8291
+      },
+      "255": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 3,
+          "verdict": "P192.0",
+          "submitted_seconds": 8297
+      },
+      "256": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P50.0",
+          "submitted_seconds": 8307
+      },
+      "257": {
+          "user_id": "PROPTIT_HoaiPhuong",
+          "problem_index": 5,
+          "verdict": "P45.0",
+          "submitted_seconds": 8366
+      },
+      "258": {
+          "user_id": "ProPTIT_MinhNL",
+          "problem_index": 5,
+          "verdict": "P20.0",
+          "submitted_seconds": 8367
+      },
+      "259": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 5,
+          "verdict": "P20.0",
+          "submitted_seconds": 8376
+      },
+      "260": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8385
+      },
+      "261": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 5,
+          "verdict": "P20.0",
+          "submitted_seconds": 8408
+      },
+      "262": {
+          "user_id": "ProPTIT_HieuTT",
+          "problem_index": 4,
+          "verdict": "P200.0",
+          "submitted_seconds": 8423
+      },
+      "263": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P57.0",
+          "submitted_seconds": 8441
+      },
+      "264": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P0.0",
+          "submitted_seconds": 8536
+      },
+      "265": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8560
+      },
+      "266": {
+          "user_id": "ProPTIT_NVQuang",
+          "problem_index": 5,
+          "verdict": "P25.0",
+          "submitted_seconds": 8610
+      },
+      "267": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 3,
+          "verdict": "P2.0",
+          "submitted_seconds": 8618
+      },
+      "268": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 3,
+          "verdict": "P6.0",
+          "submitted_seconds": 8624
+      },
+      "269": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8636
+      },
+      "270": {
+          "user_id": "ProPTIT_HieuTT",
+          "problem_index": 3,
+          "verdict": "P2.0",
+          "submitted_seconds": 8637
+      },
+      "271": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8644
+      },
+      "272": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P50.0",
+          "submitted_seconds": 8659
+      },
+      "273": {
+          "user_id": "xuanson42006",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8724
+      },
+      "274": {
+          "user_id": "ITIS_LeLoc71",
+          "problem_index": 2,
+          "verdict": "P61.5",
+          "submitted_seconds": 8731
+      },
+      "275": {
+          "user_id": "ProPTIT_HieuTT",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8735
+      },
+      "276": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P57.0",
+          "submitted_seconds": 8743
+      },
+      "277": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 3,
+          "verdict": "P0.0",
+          "submitted_seconds": 8781
+      },
+      "278": {
+          "user_id": "ProPTIT_HoangAnh",
+          "problem_index": 5,
+          "verdict": "P0.0",
+          "submitted_seconds": 8795
+      },
+      "279": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P0.0",
+          "submitted_seconds": 8811
+      },
+      "280": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 5,
+          "verdict": "P0.0",
+          "submitted_seconds": 8811
+      },
+      "281": {
+          "user_id": "ProPTIT_NVQuang",
+          "problem_index": 5,
+          "verdict": "P32.5",
+          "submitted_seconds": 8835
+      },
+      "282": {
+          "user_id": "ProPTIT_MinhTQ",
+          "problem_index": 5,
+          "verdict": "P20.0",
+          "submitted_seconds": 8851
+      },
+      "283": {
+          "user_id": "cutebunnies",
+          "problem_index": 5,
+          "verdict": "P7.5",
+          "submitted_seconds": 8869
+      },
+      "284": {
+          "user_id": "ProPTIT_DucAnh",
+          "problem_index": 5,
+          "verdict": "P25.0",
+          "submitted_seconds": 8878
+      },
+      "285": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 5,
+          "verdict": "P25.0",
+          "submitted_seconds": 8898
+      },
+      "286": {
+          "user_id": "ProPTIT_BuiTuan",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8898
+      },
+      "287": {
+          "user_id": "ProPTIT_TrungNH",
+          "problem_index": 2,
+          "verdict": "P150.0",
+          "submitted_seconds": 8908
+      },
+      "288": {
+          "user_id": "ProPTIT_NVQuang",
+          "problem_index": 5,
+          "verdict": "P42.5",
+          "submitted_seconds": 8924
+      },
+      "289": {
+          "user_id": "ITIS_HIEP",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8944
+      },
+      "290": {
+          "user_id": "ITIS_THEPHONG",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8970
+      },
+      "291": {
+          "user_id": "ITIS_DChien",
+          "problem_index": 5,
+          "verdict": "P37.5",
+          "submitted_seconds": 8970
+      },
+      "292": {
+          "user_id": "ITIS_ZEI",
+          "problem_index": 2,
+          "verdict": "P57.0",
+          "submitted_seconds": 8976
+      },
+      "293": {
+          "user_id": "ITIS_NTSora",
+          "problem_index": 6,
+          "verdict": "P0.0",
+          "submitted_seconds": 8982
+      },
+      "294": {
+          "user_id": "ProPTIT_HieuTT",
+          "problem_index": 5,
+          "verdict": "P0.0",
+          "submitted_seconds": 8999
       }
   },
   "users": {
@@ -1341,18 +1797,13 @@
           "college": "ITIS",
           "is_exclude": false
       },
-      "ProPTIT_MinhTQ": {
-          "name": "ProPTIT_MinhTQ",
+      "ProPTIT_NVQuang": {
+          "name": "ProPTIT_NVQuang",
           "college": "ProPTIT",
           "is_exclude": false
       },
-      "ITIS_NTSora": {
-          "name": "ITIS_NTSora",
-          "college": "ITIS",
-          "is_exclude": false
-      },
-      "ProPTIT_NVQuang": {
-          "name": "ProPTIT_NVQuang",
+      "ProPTIT_MinhTQ": {
+          "name": "ProPTIT_MinhTQ",
           "college": "ProPTIT",
           "is_exclude": false
       },
@@ -1361,13 +1812,23 @@
           "college": "ITIS",
           "is_exclude": false
       },
+      "ProPTIT_TrungNH": {
+          "name": "ProPTIT_TrungNH",
+          "college": "ProPTIT",
+          "is_exclude": false
+      },
       "ProPTIT_MinhNL": {
           "name": "ProPTIT_MinhNL",
           "college": "ProPTIT",
           "is_exclude": false
       },
-      "ProPTIT_TrungNH": {
-          "name": "ProPTIT_TrungNH",
+      "ITIS_NTSora": {
+          "name": "ITIS_NTSora",
+          "college": "ITIS",
+          "is_exclude": false
+      },
+      "ProPTIT_HieuTT": {
+          "name": "ProPTIT_HieuTT",
           "college": "ProPTIT",
           "is_exclude": false
       },
@@ -1393,11 +1854,6 @@
       },
       "ProPTIT_HoangAnh": {
           "name": "ProPTIT_HoangAnh",
-          "college": "ProPTIT",
-          "is_exclude": false
-      },
-      "ProPTIT_HieuTT": {
-          "name": "ProPTIT_HieuTT",
           "college": "ProPTIT",
           "is_exclude": false
       },
